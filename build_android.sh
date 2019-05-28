@@ -9,8 +9,8 @@
 # Date: 2018-05-15
 
 # You should set the MY_NDK、MY_SDK、MY_CMAKE as your own path
-MY_NDK="/Users/wangjianjun/AndroidDev/sdk/ndk-bundle"
-MY_SDK="/Users/wangjianjun/AndroidDev/sdk"
+MY_NDK="/Users/AlanWang/AndroidDev/sdk/ndk-bundle"
+MY_SDK="/Users/AlanWang/AndroidDev/sdk"
 MY_CMAKE="${MY_SDK}/cmake/3.6.3155560/bin/cmake"
 
 OUTPUT_LIBS="./build/libs"
