@@ -16,7 +16,7 @@ There are two ways to use:
 
      <img src="./screen/Oboe_source.png" width=30% height=30% div align=center/>
 
-  3. change MY_NDK、MY_SDK、MY_CMAKE as your own path in build_android.sh
+  3. change MY_NDK、MY_SDK、MY_CMAKE as your own path in build_android.sh(need Android NDK r17 or above)
 
      ```shell
      # You should set the MY_NDK、MY_SDK、MY_CMAKE as your own path
@@ -43,7 +43,7 @@ There are two ways to use:
 
      <img src="./screen/Oboe_building.png" width=60% height=60%/>
 
-  6. finally you will see that libraries in build directory
+  6. finally you will find output libraries in build directory
 
 
 
